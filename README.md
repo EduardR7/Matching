@@ -1,3 +1,4 @@
+![image](https://github.com/EduardR7/Matching/assets/126398449/8ef414ad-3402-48b2-bb75-2ade5b45d46e)
 # Мэтчинг товаров в маркетплейсе
 
 ## Описание задачи
